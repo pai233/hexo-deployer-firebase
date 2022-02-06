@@ -33,7 +33,6 @@ You can configure this plugin in Hexo's `_config.yml`:
 deploy:
     - type: firebase
       id: <Your project's unique identifier>
-      debug: <Debug Mode> # Default is true
 ```
 The identifier usually at your project's name below. For an example:
 ![](https://img1.imgtp.com/2022/02/06/ROx9Ztlw.png)
