@@ -35,9 +35,15 @@ deploy:
       id: <Your project's unique identifier>
 ```
 The identifier usually at your project's name below. For an example:
+
 ![](https://img1.imgtp.com/2022/02/06/ROx9Ztlw.png)
 
 `pai233-blog` is this project's identifier.
+
+## Deploy
+Just run `hexo d` in your terminal.
+
+**If you are using this plugin in mainland China, you may need to set a proxy server.**
 
 # LICENSE
 MIT
