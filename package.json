@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-firebase",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Google Firebase Deployer for hexo.",
   "main": "index.js",
   "scripts": {
