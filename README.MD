@@ -1,6 +1,8 @@
 # hexo-deployer-firebase
 Google Firebase Deployer for Hexo.
 
+简体中文版教程：https://blog.pai233.top/20220208/how-to-deploy-your-hexo-blog-on-firebase/
+
 # Usage
 
 ## Installation
